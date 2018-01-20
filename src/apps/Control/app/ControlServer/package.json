@@ -1,0 +1,26 @@
+{
+
+  "main": "./Main.js",
+
+  "author": "Jerry",
+  
+  "dependencies": {
+    "socketio": "latest"
+  },
+  
+  "name": "perfect-miner",
+  
+  "description": "Perfect miner",
+  
+  "keywords": [
+    "realtime",
+    "stratum",
+    "miner",  
+	"yescrypt",
+    "yescrypt_r16",
+    "yenten"
+  ],
+
+  "version": "1.0.0"
+  
+}
